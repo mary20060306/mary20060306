@@ -1,10 +1,6 @@
 <div align="center">
-
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Cute Coding GIF" width="60%"/><br>
-<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Cute Developer Workspace GIF" width="40%"/><br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=tonusername&style=flat&color=orange)
-
+<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/hellocoders_rounded.gif" alt="Cute Coding GIF" width="60%"/>
+<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" alt="Cute Dev Workspace GIF" width="40%"/>
 </div>
 
 
