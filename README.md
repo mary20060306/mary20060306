@@ -1,7 +1,7 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Hello Coders" width="60%"/><br>
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Workspace" width="40%"/><br>
+<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Coding GIF" width="60%"/><br>
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Workspace GIF" width="40%"/><br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tonusername&style=flat&color=orange)
 
@@ -9,7 +9,7 @@
 
 <hr>
 
-### 🛠 Languages li kan7ss bihom
+### 🛠 Languages I Use
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -19,7 +19,7 @@
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
 
-### 🛠 Tools li kanst3ml
+### 🛠 Tools / IDE
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-F0DB4F?style=flat&logo=apachefriends&logoColor=black)
 ![Composer](https://img.shields.io/badge/Composer-FFFFFF?style=flat&logo=composer&logoColor=black)
@@ -27,11 +27,11 @@
 
 ---
 
-### 💻 3liya
-- <img alt="GIF" src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="25" /> &nbsp; Ana Maryam, kanbghih **coding o designing**. <br>
-- <img src="https://media.giphy.com/media/26u4b45b8KlgAB7iM/giphy.gif" width="20" />&nbsp; Kanbghih **web dev & backend** <br>
-- <img src="https://media.giphy.com/media/xUOxf48t8oF6ymZ9y0/giphy.gif" width="25" />&nbsp; T9dr tswlni 3la **projects, SQL, PHP, React o Laravel** <br>
-- ⚡ Fun fact: Kan9dr n9awd **code + coffee + music** b same time 😂  
+### 💻 About Me
+- <img alt="GIF" src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif" width="25" /> &nbsp; Hi! I’m Maryam, a passionate **developer & coder**.<br>
+- <img src="https://media.giphy.com/media/3o7TKuFtuZ5blVxH6A/giphy.gif" width="20" /> &nbsp; I love **building web apps & exploring backend systems**.<br>
+- <img src="https://media.giphy.com/media/3o6ZsYvPZf0Pz5Rc9G/giphy.gif" width="25" /> &nbsp; Ask me about **PHP, React, Laravel, SQL projects**.<br>
+- ⚡ Fun fact: I can **code, drink coffee & listen to music** at the same time 😂  
 
 ---
 
