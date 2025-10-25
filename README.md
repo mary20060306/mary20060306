@@ -1,7 +1,7 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Coding GIF" width="60%"/><br>
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Workspace GIF" width="40%"/><br>
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Cute Coding GIF" width="60%"/><br>
+<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Cute Developer Workspace GIF" width="40%"/><br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tonusername&style=flat&color=orange)
 
