@@ -37,11 +37,14 @@
 ---
 
 <div align="center">
-<a href="https://github.com/tonusername">
-
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
-
-</a>
+  <a href="https://github.com/tonusername">
+    <!-- Total commits, PRs, issues -->
+    <img src="https://github-readme-stats.vercel.app/api?username=tonusername&show_icons=true&theme=radical" width="32.5%">
+    
+    <!-- Languages repartition -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonusername&layout=compact&theme=radical" width="32.5%">
+    
+    <!-- Streak / contributions -->
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tonusername&theme=radical" width="32.5%">
+  </a>
 </div>
