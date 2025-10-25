@@ -1,17 +1,15 @@
-<div align="center" width="50">
+<div align="center">
 
 <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Hello Coders" width="60%"/><br>
 <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Workspace" width="40%"/><br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tonusername&style=flat&color=orange)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftonusername&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)](https://github.com/tonusername)
 
 </div>
 
 <hr>
 
-### 🛠 Languages & Tools I Use
-
+### 🛠 Languages li kan7ss bihom
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -21,7 +19,7 @@
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
 
-### 🛠 Tools / IDE
+### 🛠 Tools li kanst3ml
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-F0DB4F?style=flat&logo=apachefriends&logoColor=black)
 ![Composer](https://img.shields.io/badge/Composer-FFFFFF?style=flat&logo=composer&logoColor=black)
@@ -29,22 +27,18 @@
 
 ---
 
-### 💻 About Me
-- <img alt="GIF" src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="25" /> &nbsp; I’m currently learning **Laravel & React**.<br>
-- <img src="https://media.giphy.com/media/26u4b45b8KlgAB7iM/giphy.gif" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **web dev & backend systems**.<br>
-- <img src="https://media.giphy.com/media/xUOxf48t8oF6ymZ9y0/giphy.gif" width="25" />&nbsp;&nbsp; Ask me about **programming, SQL or PHP projects**.<br>
+### 💻 3liya
+- <img alt="GIF" src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="25" /> &nbsp; Ana Maryam, kanbghih **coding o designing**. <br>
+- <img src="https://media.giphy.com/media/26u4b45b8KlgAB7iM/giphy.gif" width="20" />&nbsp; Kanbghih **web dev & backend** <br>
+- <img src="https://media.giphy.com/media/xUOxf48t8oF6ymZ9y0/giphy.gif" width="25" />&nbsp; T9dr tswlni 3la **projects, SQL, PHP, React o Laravel** <br>
+- ⚡ Fun fact: Kan9dr n9awd **code + coffee + music** b same time 😂  
 
 ---
 
 <div align="center">
   <a href="https://github.com/tonusername">
-    <!-- Total commits, PRs, issues -->
     <img src="https://github-readme-stats.vercel.app/api?username=tonusername&show_icons=true&theme=radical" width="32.5%">
-    
-    <!-- Languages repartition -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonusername&layout=compact&theme=radical" width="32.5%">
-    
-    <!-- Streak / contributions -->
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=tonusername&theme=radical" width="32.5%">
   </a>
 </div>
