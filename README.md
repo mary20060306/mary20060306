@@ -1,5 +1,4 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/hellocoders_rounded.gif" alt="Cute Coding GIF" width="60%"/>
 <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" alt="Cute Dev Workspace GIF" width="40%"/>
 </div>
 
